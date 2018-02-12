@@ -8,3 +8,4 @@
 
 ## Материалы
 * [Собрание демок](https://codepen.io/collection/ABQLyR/) на codepen
+* [Настройка отладчика в PHPStorm](https://github.com/4err/HTMLAcademyTips/blob/master/xdebug/xdebug_settings.md)
