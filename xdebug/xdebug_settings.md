@@ -7,6 +7,7 @@
 
 Если вы уже более опытный пользователь, возможно вам будет достаточно [официальных материалов](https://www.jetbrains.com/help/phpstorm/configuring-xdebug.html)
 или немного устаревшей [инструкцией с хабра](https://habrahabr.ru/post/250323/)
+
 **Убедитесь, что OpenServer установлен в корень диска**
 
 ## Включение модуля XDEBUG для PHP в OpenServer
