@@ -58,7 +58,7 @@ Xdebug настроен. Осталось только подключиться 
 1. Открываем панель отладки: **Run -> Edit configurations**
 2. Должно открыться вот такое окно:
 ![alt text](https://monosnap.com/file/Lc7tnTHQfxOyzKVeStLRvcmGCOD6rb.png "Create web application")
-3. Нужно нажать на зеленый плюс и выбрать **PHP Web Application**
+3. Нужно нажать на зеленый плюс и выбрать  **PHP Web Page** (В старых версиях PHP Web Application)
 ![alt text](img/server_create2.jpg "Create web application")
 4. Для начала нужно придумать имя вашему приложению. Имя может быть любым.
 5. К сожалению, у нас еще нет связи с сервером, на котором работает приложение. Для этого необходимо нажать на многоточие
